@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fragment Transaction With Backstack</string>
+    <string name="action_settings">Settings</string>
+    <string name="first">This is First Fragment Man !</string>
+    <string name="second">This is Second Fragment Man !</string>
+    <string name="add_first">Add First</string>
+    <string name="remove_first">Remove First</string>
+    <string name="replace_first">Replace First</string>
+    <string name="add_second">Add Second</string>
+    <string name="remove_second">Remove Second</string>
+    <string name="replace_second">Replace Second</string>
+    <string name="attach_first">Attach First</string>
+    <string name="detach_first">Detach First</string>
+    <string name="first_tag">first</string>
+    <string name="second_tag">second</string>
+    <string name="message">Fragment was not added before</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="pop_add_second">Pop Add Second</string>
+    <string name="add_first_tran">addFirst</string>
+    <string name="detach_first_tran">detachFirst</string>
+    <string name="attach_first_tran">attachFirst</string>
+    <string name="replace_second_tran">replaceSecond</string>
+    <string name="remove_second_tran">removeSecond</string>
+    <string name="add_second_tran">addSecond</string>
+    <string name="replace_first_tran">replaceFirst</string>
+    <string name="remove_first_tran">removeFirst</string>
+</resources>
